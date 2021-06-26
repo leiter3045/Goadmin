@@ -1,4 +1,4 @@
-## beego admin
+## beego AdminLTE-2.4.13
 
 基于beego, jquery ,bootstrap, AdminLTE-2.4.13的一个后台管理系统
 
