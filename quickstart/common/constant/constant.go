@@ -1,5 +1,5 @@
 package constant
-
+https://dfenghuoyunji.jb51.net/202001/tools/navicatmysqlpjb_jb51.rar
 const (
 	// 定义系统加密解密KEY
 	SYSTEM_SECRET_KEY = "RSA:!@#f8fe04b3a&*()_+"
